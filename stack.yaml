@@ -1,0 +1,5 @@
+resolver: nightly-2021-12-12
+compiler: ghc-8.10.7
+
+packages:
+- .
